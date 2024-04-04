@@ -2,7 +2,7 @@
 
 This repository contains the code and results data to generate the results shown in my master thesis.
 
-#### Summarize
+#### Summary
 The objective of this study is to demonstrate the role of large-scale hydrogen storage
 in the German energy system in 2030, thereby proving its utility in reaching the
 first phase of Kernnetz in 2032. With the number of underground hydrogen storage
