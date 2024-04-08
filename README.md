@@ -35,7 +35,7 @@ must be created in this corridor to handle the capacities of these exporting/imp
 routes. The implementation of large-scale hydrogen storage in the German energy
 system can expand the hydrogen market in Europe, in particular, the electrolysis
 market in several areas, and modify local hydrogen hubs in the Netherlands, France,
-61and Spain. In Germany, large-scale salt caverns also offer locational marginal
+and Spain. In Germany, large-scale salt caverns also offer locational marginal
 hydrogen price drops further south. Furthermore, the integration of hydrogen
 storage in Germany could lead to grid congestion in these market corridors. Thus,
 both regional and technical support are needed to upgrade these hydrogen pipelines
