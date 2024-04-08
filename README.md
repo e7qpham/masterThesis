@@ -1,6 +1,6 @@
 #### The role of large-scale hydrogen storage in the German energy system in 2030
 
-This repository contains the code and results data to generate the results shown in my master thesis.
+This repository contains the code and analysis data to generate the results shown in my Master's thesis.
 
 #### Summary
 The objective of this study is to demonstrate the role of large-scale hydrogen storage
